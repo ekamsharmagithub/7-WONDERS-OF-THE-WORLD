@@ -1,0 +1,50 @@
+body
+{
+    background-image: url(https://images3.alphacoders.com/853/thumb-1920-85305.jpg);
+}
+
+.header
+{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-family: 'Yeon Sung';
+	letter-spacing: 5px;
+	margin-top: 80px;
+}
+
+h2
+{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 30px;
+}
+
+#go{
+    height: 60px;
+    width: 140px;
+    background-image: linear-gradient(orange, lavender, yellow);
+    font-size: 40px;
+    border-radius: 10px;
+    border-color: green;
+    border-style: dotted;
+    cursor: pointer;
+}
+
+#img
+{
+	height: 70px;
+	width: 70px;
+	border-radius: 50px;
+}
+
+#ig
+{
+	height: 500px;
+	width: 800px;
+	border-width: 50px;
+	border-radius: 10px;
+	border-color: black;
+}
+
+#go:hover{
+	background-color: green;
+}

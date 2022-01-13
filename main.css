@@ -1,0 +1,16 @@
+body
+{
+  text-align: center;
+  font-size: 40px;
+  background-color: #FFE57F;
+   color:black;
+} 
+.sp,.di 
+{ 
+  margin:20px;
+  color: black;
+} 
+img
+{
+  width: 50%;
+}
