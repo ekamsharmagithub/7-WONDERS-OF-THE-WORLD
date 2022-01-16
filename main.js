@@ -1,6 +1,10 @@
 user_name = localStorage.getItem("Username");
 
 document.getElementById("welcome_user_name").innerHTML = "Welcome " + user_name + "!";
+
+function logout() {
+  window.location = "welcome.html"
+}
   
   function one() {
     window.alert(

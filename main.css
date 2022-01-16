@@ -14,3 +14,23 @@ img
 {
   width: 50%;
 }
+
+#logout
+{
+  cursor: pointer;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  float: right;
+  height: 60px;
+  width: 100px;
+  border-radius: 4px;
+  background-color: red;
+  border-style: dotted;
+  border-color: blueviolet;
+}
+
+#logout:hover
+{
+  background-image: linear-gradient(red, silver, yellowgreen);
+}
